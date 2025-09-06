@@ -31,8 +31,7 @@ answers, percentage, and performance messages.
 1.  Clone this repository:
 
     ``` bash
-    git clone https://github.com/your-username/quiz-app-tkinter.git
-    cd quiz-app-tkinter
+   https://github.com/rohitchauhan07-hub/Quizz/tree/main
     ```
 
 2.  Make sure Python (\>=3.8) is installed.\
