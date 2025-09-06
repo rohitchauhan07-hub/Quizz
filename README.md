@@ -40,7 +40,7 @@ answers, percentage, and performance messages.
 3.  Run the app:
 
     ``` bash
-    python quiz_app.py
+    python quiz.py
     ```
 
 ------------------------------------------------------------------------
@@ -48,7 +48,7 @@ answers, percentage, and performance messages.
 ## 📂 Project Structure
 
     quiz-app-tkinter/
-    │── quiz_app.py      # Main Tkinter quiz code
+    │── quiz.py          # Main Tkinter quiz code
     │── README.md        # Project documentation
 
 ------------------------------------------------------------------------
